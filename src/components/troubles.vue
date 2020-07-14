@@ -10,7 +10,7 @@
           type="text"
           required
           placeholder="trouble"
-          class="m-2 col col-sm-8  "
+          class="m-2 col-11 col-sm-8  "
         ></b-form-input>
         </div>
 
@@ -22,7 +22,7 @@
         :key="name"
         tag="article"
         style="max-width: 20rem;"
-        class="m-2 col col-sm-4"
+        class="m-2 col-12 col-sm-4"
       >
         <b-card-text>
         <b-list-group>
